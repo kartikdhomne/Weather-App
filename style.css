@@ -1,0 +1,41 @@
+body{
+
+    display: flex;
+  justify-content: center;
+  align-items: center;
+   background-image: url('https://source.unsplash.com/1600x900/?daytime');
+  
+    font-family: 'Open Sans', sans-serif;
+    margin-top: 150px;
+    padding-left: 20px;
+    
+}
+
+#input-box{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    outline: none;
+    color: white;
+    width:500px;
+    background:transparent;
+    font-size: 30px;
+    text-align: center;
+}
+#place{
+    margin-left: 180px;
+}
+#logo{
+    margin-left: 220px;
+    
+}
+#temp{
+    margin-left: 180px;
+}
+#temp-min{
+    margin-left: 180px;
+}
+#temp-max{
+    margin-left: 180px;
+}
+   
